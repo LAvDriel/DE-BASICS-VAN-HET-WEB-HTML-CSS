@@ -1,0 +1,48 @@
+ul {
+    border: 5px solid white;
+    border-radius: 12px;
+    width: fit-content;
+  }
+ul {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+    }
+ul {
+    margin: 5px 5px;
+    padding: 0px 5px;
+  }
+ul {
+    background-color: lightcoral;
+    }
+ul {
+  list-style-type: none;
+}
+li {
+    display: inline;
+  }
+li {
+    padding: 100px;
+}
+h1 {
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: solid;
+    border-left-style: none;
+    border-color: tomato;
+    width: 1050px;
+  }
+  iframe {
+      margin: 0px 200px;
+  }
+  body {
+    font-family: 'Tourney', cursive; 
+   }
+
+
+  @media screen and (max-width: 600px) {
+       #body {margin-left: 216px;}
+       body {
+           background-color: teal;
+       }
+       
